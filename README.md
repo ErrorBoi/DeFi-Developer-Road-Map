@@ -1,3 +1,7 @@
+# Fork Note
+
+**I forked original repo to track my progress of going through this awesome roadmap. If I find something necessary to add, it will also be added in corresponding item of the list.**
+
 # DeFi Developer Road Map
 
 **Here we collect and discuss the best DeFi & Blockchain researches and tools - contributions are welcome.**
