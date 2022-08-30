@@ -98,8 +98,8 @@ You can also send me a donation to the address from [this repository](https://gi
 
 # Basics:
 
-- Learn the basics of Distributed Ledger Technology (DLT) [(1)](https://www.youtube.com/watch?v=4b0A5XU3-tY) [(2)](https://www.r3.com/blockchain-101/) [Completed on August 24, 2022✅]
-- Bitcoin protocol [Explained](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-1-4-16cba783146a)
+- Learn the basics of Distributed Ledger Technology (DLT) ([1](https://www.youtube.com/watch?v=4b0A5XU3-tY), [2](https://www.r3.com/blockchain-101/))  [Completed on August 24, 2022✅]
+- Bitcoin protocol [Explained] ([1](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-1-4-16cba783146a), [2](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-2-4-d79fbc5e2adf), [3](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-3-3-c06c1791a31b)) [Completed on August 31, 2022✅]
 - Elliptic Curve [Cryptography](https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab)
 - Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp)
 - Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8)
