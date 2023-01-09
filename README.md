@@ -102,7 +102,7 @@ You can also send me a donation to the address from [this repository](https://gi
 - Bitcoin protocol Explained ([1](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-1-4-16cba783146a), [2](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-2-4-d79fbc5e2adf), [3](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-3-3-c06c1791a31b)) [Completed on August 31, 2022✅]
 - Elliptic Curve [Cryptography](https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab), [Build a simple blockchain](https://medium.com/wieblebub/build-a-simple-blockchain-fe7ee48090d9) [Completed on August 31, 2022✅]
 - Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp) [Completed on January 7, 2023✅]
-- Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8)
+- Watch Blockchain - A visual demo [Part 1](https://www.youtube.com/watch?v=_160oMzblY8) [Part 2](https://www.youtube.com/watch?v=xIDL_akeras) [Completed on January 9, 2023✅]
 - Watch [But how does bitcoin actually work? - 3b1b](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 - Learn the basics of [Computer Science](https://github.com/ossu/computer-science)
 
